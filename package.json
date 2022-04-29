@@ -4,16 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "fatfat"
   },
-  "author": "darkcake",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.0"
-  }
+  "author": "",
+  "license": "ISC"
 }
